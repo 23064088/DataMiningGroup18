@@ -1,0 +1,1001 @@
+Customer_ID,Age,Income,Credit_Score,Investment_Returns,Risk_Level,Customer_Feedback
+1001,53.0,85624,681,10.08,Medium,Average.
+1002,29.0,85624,654,2.87,Medium,The app is [MASK].
+1003,,85624,750,5.26,Medium,nan
+1004,30.0,69662,689,2.07,High,nan
+1005,25.0,35106,695,11.92,Low,Average.
+1006,37.0,59925,710,6.21,Medium,The app is [MASK].
+1007,35.0,55314,704,11.97,High,nan
+1008,27.0,85132,674,11.97,Medium,nan
+1009,,62583,602,7.92,Medium,The app is [MASK].
+1010,25.0,74186,602,11.97,High,Fees are high.
+1011,37.0,85624,667,6.72,High,Average.
+1012,,81361,674,3.17,Low,nan
+1013,33.0,85624,605,4.19,High,Great service!
+1014,38.0,85624,760,2.89,Medium,Average.
+1015,34.0,40022,751,6.56,Low,Great service!
+1016,,62273,782,11.38,Low,The app is [MASK].
+1017,60.0,85624,663,8.87,Low,Great service!
+1018,34.0,52009,777,4.19,High,nan
+1019,,83237,631,6.52,Medium,Great service!
+1020,30.0,67523,602,11.97,Low,Great service!
+1021,,58669,762,8.69,Medium,nan
+1022,,37907,748,7.48,High,Great service!
+1023,25.0,74484,719,10.93,High,Great service!
+1024,,58069,645,10.55,Medium,Great service!
+1025,,85624,720,10.46,Medium,Great service!
+1026,26.0,76688,783,10.73,Low,The app is [MASK].
+1027,25.0,85624,689,11.97,Medium,The app is [MASK].
+1028,25.0,84263,645,9.65,Low,Average.
+1029,60.0,78016,815,11.97,Medium,Fees are high.
+1030,25.0,75487,710,11.97,Low,Great service!
+1031,25.0,50100,659,5.87,Medium,Great service!
+1032,60.0,70525,632,11.93,Low,Happy with the app.
+1033,,28279,691,7.92,High,Happy with the app.
+1034,29.0,85624,620,5.25,Low,Average.
+1035,38.0,78873,821,2.81,High,Fees are high.
+1036,25.0,78695,690,2.07,Medium,nan
+1037,25.0,82678,761,6.88,Medium,Average.
+1038,47.0,63017,762,11.66,Medium,Fees are high.
+1039,28.0,45334,747,11.97,High,Great service!
+1040,29.0,75460,701,10.03,High,Average.
+1041,25.0,85624,679,9.7,Medium,Great service!
+1042,41.0,69405,723,9.12,Medium,nan
+1043,25.0,85624,609,10.02,Medium,Great service!
+1044,25.0,77117,617,9.6,High,Average.
+1045,30.0,85624,786,4.08,Low,Average.
+1046,33.0,50259,634,6.96,High,Fees are high.
+1047,32.0,85624,616,11.81,Medium,Fees are high.
+1048,56.0,37033,755,3.53,Low,Average.
+1049,43.0,85624,656,8.59,Low,Average.
+1050,,85624,602,6.45,Low,Fees are high.
+1051,25.0,64415,849,2.07,Medium,The app is [MASK].
+1052,32.0,81585,602,2.07,High,The app is [MASK].
+1053,41.0,76866,630,4.24,Low,Fees are high.
+1054,25.0,81813,742,8.07,High,nan
+1055,25.0,51097,676,8.5,Low,Average.
+1056,26.0,66039,775,3.34,Low,The app is [MASK].
+1057,42.0,28279,786,7.93,High,Happy with the app.
+1058,29.0,54738,664,4.93,High,Great service!
+1059,26.0,85624,602,6.3,Medium,Fees are high.
+1060,,52164,648,9.14,High,Average.
+1061,35.0,85624,666,2.07,Medium,Fees are high.
+1062,,51486,602,3.5,High,nan
+1063,25.0,74638,665,6.69,Medium,Happy with the app.
+1064,,85624,699,10.28,Medium,Average.
+1065,57.0,72590,711,3.23,Medium,Great service!
+1066,38.0,79405,755,6.08,High,Great service!
+1067,36.0,28279,664,2.07,High,Happy with the app.
+1068,30.0,38104,794,5.95,High,Happy with the app.
+1069,32.0,67002,602,11.97,Low,Fees are high.
+1070,32.0,44115,846,10.24,High,Average.
+1071,31.0,85624,602,5.45,Medium,Great service!
+1072,36.0,64798,638,5.91,High,Fees are high.
+1073,26.0,56034,666,11.97,High,Happy with the app.
+1074,30.0,85624,769,10.27,High,Great service!
+1075,40.0,62018,742,3.32,Medium,The app is [MASK].
+1076,32.0,49387,660,4.39,High,Fees are high.
+1077,25.0,32003,676,4.91,Low,The app is [MASK].
+1078,25.0,85624,602,4.6,Medium,Average.
+1079,25.0,45714,714,5.15,Medium,The app is [MASK].
+1080,25.0,85624,775,2.07,High,nan
+1081,38.0,60212,705,5.45,High,Great service!
+1082,38.0,69850,778,11.19,Medium,nan
+1083,,82160,787,2.07,Low,Great service!
+1084,33.0,85624,785,7.04,Low,Average.
+1085,31.0,80868,602,5.58,Low,Great service!
+1086,26.0,81235,669,9.99,High,Happy with the app.
+1087,28.0,85624,731,2.07,Medium,The app is [MASK].
+1088,,28279,689,9.42,High,nan
+1089,25.0,28279,602,11.31,Low,Fees are high.
+1090,27.0,80077,673,7.47,Medium,Fees are high.
+1091,43.0,50109,729,11.97,Low,The app is [MASK].
+1092,25.0,85624,695,2.07,Medium,Happy with the app.
+1093,35.0,82289,764,10.67,High,nan
+1094,44.0,68229,705,10.25,Medium,Fees are high.
+1095,43.0,68294,744,3.23,High,Great service!
+1096,60.0,85624,761,9.59,Medium,nan
+1097,25.0,44519,749,4.12,Medium,Fees are high.
+1098,32.0,85624,602,5.83,Medium,The app is [MASK].
+1099,25.0,81690,714,6.27,Medium,Fees are high.
+1100,48.0,64892,805,5.32,High,Average.
+1101,38.0,85624,772,5.85,High,Average.
+1102,42.0,33945,602,5.86,High,Fees are high.
+1103,34.0,85624,602,11.97,Medium,Great service!
+1104,25.0,80999,648,11.11,Medium,nan
+1105,36.0,85624,744,3.67,Medium,nan
+1106,49.0,85624,650,2.07,High,Great service!
+1107,31.0,52434,751,5.68,High,Happy with the app.
+1108,45.0,85624,602,8.41,Low,Happy with the app.
+1109,35.0,62785,679,11.97,Medium,Great service!
+1110,38.0,59638,828,2.4,Low,Great service!
+1111,36.0,67749,780,11.97,Medium,The app is [MASK].
+1112,29.0,40166,733,3.97,Medium,Great service!
+1113,,65391,684,2.07,High,The app is [MASK].
+1114,25.0,50854,645,2.41,Medium,The app is [MASK].
+1115,29.0,33540,707,7.93,Medium,Great service!
+1116,,30930,774,11.97,High,Average.
+1117,26.0,85624,610,6.77,High,Fees are high.
+1118,35.0,85624,602,8.28,High,The app is [MASK].
+1119,37.0,41921,786,2.07,Low,Fees are high.
+1120,58.0,43755,849,5.71,High,Great service!
+1121,,85624,728,2.89,High,Happy with the app.
+1122,31.0,37394,717,7.38,Low,Fees are high.
+1123,36.0,66756,686,3.82,Low,Great service!
+1124,60.0,55389,602,6.89,High,nan
+1125,31.0,43067,748,11.97,High,Great service!
+1126,32.0,62523,756,7.43,Low,Happy with the app.
+1127,27.0,69672,650,2.91,High,Fees are high.
+1128,,67829,630,8.1,Medium,Fees are high.
+1129,39.0,53458,690,6.98,Medium,Great service!
+1130,36.0,71987,849,4.73,Medium,Average.
+1131,,79582,602,2.07,Low,nan
+1132,60.0,75324,786,11.18,Medium,Happy with the app.
+1133,25.0,64716,651,5.9,Low,Happy with the app.
+1134,38.0,61286,734,5.01,Medium,Happy with the app.
+1135,26.0,85624,662,8.88,Low,Great service!
+1136,25.0,83642,725,2.31,High,Great service!
+1137,34.0,60454,835,7.44,Medium,Average.
+1138,35.0,70546,661,8.17,Medium,Great service!
+1139,40.0,48231,628,7.77,Medium,nan
+1140,29.0,85624,602,2.07,Low,Great service!
+1141,,52937,602,6.75,High,Fees are high.
+1142,51.0,79033,602,3.15,Low,Fees are high.
+1143,30.0,85624,811,4.22,Low,The app is [MASK].
+1144,25.0,85624,723,11.86,Low,nan
+1145,,64075,744,3.47,High,The app is [MASK].
+1146,30.0,56648,605,10.65,Low,Fees are high.
+1147,25.0,85624,731,8.25,High,Great service!
+1148,60.0,45136,689,11.97,Low,Great service!
+1149,27.0,48786,602,7.17,Low,The app is [MASK].
+1150,25.0,83966,799,11.97,Low,Average.
+1151,44.0,81415,643,8.33,Low,Fees are high.
+1152,29.0,70257,770,11.97,High,Average.
+1153,34.0,85619,773,4.33,High,Average.
+1154,31.0,85624,602,9.85,Low,The app is [MASK].
+1155,32.0,82163,745,5.76,Low,Great service!
+1156,35.0,77481,602,5.22,High,Great service!
+1157,25.0,47087,719,4.94,High,Happy with the app.
+1158,39.0,64321,688,11.97,High,Average.
+1159,55.0,30322,690,4.68,High,nan
+1160,,58384,705,3.22,High,nan
+1161,28.0,84980,706,10.43,Medium,Great service!
+1162,25.0,70680,602,8.42,High,Average.
+1163,49.0,52808,602,8.86,Low,Average.
+1164,45.0,58072,641,7.13,Low,Happy with the app.
+1165,41.0,47567,708,11.49,High,nan
+1166,35.0,81862,602,3.93,Low,The app is [MASK].
+1167,57.0,46248,849,2.07,High,nan
+1168,35.0,76022,718,10.2,Medium,Average.
+1169,54.0,78456,728,10.38,Medium,Happy with the app.
+1170,34.0,28279,832,8.29,Low,Fees are high.
+1171,28.0,58608,849,9.9,High,Great service!
+1172,27.0,85624,661,2.65,Low,Average.
+1173,28.0,85624,700,4.98,Medium,Fees are high.
+1174,27.0,48689,807,4.31,Medium,Fees are high.
+1175,,47191,838,3.48,High,The app is [MASK].
+1176,34.0,57420,808,4.43,High,nan
+1177,39.0,54257,845,4.01,Low,Great service!
+1178,25.0,76744,637,5.37,Low,Fees are high.
+1179,25.0,78866,701,8.16,High,Great service!
+1180,39.0,60122,730,5.08,High,Average.
+1181,43.0,60010,722,11.97,Medium,Great service!
+1182,,85624,602,11.97,High,Happy with the app.
+1183,49.0,85624,660,11.83,High,nan
+1184,32.0,85624,692,9.02,Low,The app is [MASK].
+1185,25.0,65387,713,6.36,High,Fees are high.
+1186,51.0,77850,658,9.04,High,Great service!
+1187,25.0,76408,763,9.94,Low,Average.
+1188,60.0,85624,724,5.39,Medium,nan
+1189,57.0,68109,696,11.97,Medium,Average.
+1190,44.0,64913,668,10.23,High,nan
+1191,28.0,70421,644,3.77,High,Average.
+1192,49.0,85624,602,2.07,Low,nan
+1193,34.0,55710,669,10.05,Low,Average.
+1194,36.0,85624,627,10.59,Medium,Fees are high.
+1195,54.0,85624,760,6.12,Medium,The app is [MASK].
+1196,48.0,73410,688,4.99,High,Fees are high.
+1197,,60401,709,7.17,Medium,Great service!
+1198,32.0,69039,624,4.55,Low,The app is [MASK].
+1199,26.0,74181,623,6.98,Medium,Happy with the app.
+1200,25.0,28279,612,2.07,High,Average.
+1201,30.0,85624,631,9.31,Low,Fees are high.
+1202,,75898,753,6.98,Low,Great service!
+1203,39.0,69063,680,6.85,Medium,Happy with the app.
+1204,25.0,85624,803,11.97,Medium,The app is [MASK].
+1205,41.0,28279,705,4.01,High,Average.
+1206,25.0,58338,717,10.47,Medium,Happy with the app.
+1207,25.0,85624,712,6.72,Medium,Fees are high.
+1208,43.0,54782,689,5.0,Low,Fees are high.
+1209,57.0,77824,706,4.61,Medium,Fees are high.
+1210,36.0,28508,680,6.16,High,Average.
+1211,37.0,85624,843,2.07,Medium,Great service!
+1212,39.0,85624,656,3.75,High,nan
+1213,35.0,79498,655,2.07,Medium,Happy with the app.
+1214,45.0,71057,706,10.96,Medium,The app is [MASK].
+1215,60.0,74599,826,7.67,Medium,Average.
+1216,29.0,83835,602,5.08,High,nan
+1217,27.0,83240,740,11.97,High,nan
+1218,35.0,85624,734,6.82,Medium,nan
+1219,42.0,60292,743,9.59,Low,Fees are high.
+1220,,28279,738,8.09,High,nan
+1221,31.0,75256,639,6.59,Medium,Average.
+1222,26.0,66778,773,6.5,High,Fees are high.
+1223,38.0,61328,669,9.46,Low,The app is [MASK].
+1224,38.0,75400,602,10.08,High,Average.
+1225,31.0,69747,754,11.96,High,nan
+1226,25.0,70738,714,5.97,Medium,Average.
+1227,33.0,85624,602,4.92,Medium,Great service!
+1228,53.0,29940,688,7.96,Medium,Fees are high.
+1229,31.0,85005,712,8.82,Medium,nan
+1230,36.0,75257,756,11.15,High,Average.
+1231,60.0,78068,747,2.26,Low,Happy with the app.
+1232,27.0,77875,655,5.33,Medium,Great service!
+1233,30.0,73894,648,10.32,High,nan
+1234,25.0,34901,643,2.07,Low,nan
+1235,25.0,45255,720,7.98,High,Average.
+1236,38.0,85624,602,5.78,Medium,Fees are high.
+1237,25.0,85624,602,11.97,Medium,Great service!
+1238,26.0,71248,602,5.27,Medium,The app is [MASK].
+1239,33.0,47774,671,4.8,Medium,Great service!
+1240,32.0,77201,720,11.97,Low,Happy with the app.
+1241,32.0,85624,744,5.33,Medium,nan
+1242,40.0,59228,762,11.97,Medium,Happy with the app.
+1243,35.0,71468,602,11.97,Medium,Happy with the app.
+1244,38.0,36372,737,5.88,High,The app is [MASK].
+1245,60.0,85624,671,8.96,Low,Fees are high.
+1246,42.0,67384,763,4.5,High,Average.
+1247,33.0,51165,640,7.16,High,Fees are high.
+1248,25.0,56839,795,6.88,High,Great service!
+1249,39.0,45853,712,5.99,Low,Fees are high.
+1250,32.0,77436,823,3.2,High,Great service!
+1251,42.0,85624,720,10.28,Low,The app is [MASK].
+1252,60.0,75639,755,2.07,Medium,Fees are high.
+1253,29.0,85624,702,6.53,High,Happy with the app.
+1254,47.0,85133,685,10.69,High,The app is [MASK].
+1255,54.0,85624,629,11.97,Medium,The app is [MASK].
+1256,37.0,64028,723,5.03,High,Average.
+1257,25.0,48539,602,11.28,High,nan
+1258,29.0,52109,602,11.97,Medium,Great service!
+1259,25.0,66249,713,5.68,High,Great service!
+1260,25.0,85624,602,11.97,High,nan
+1261,36.0,79592,714,6.89,Low,Fees are high.
+1262,56.0,85624,669,3.67,High,nan
+1263,29.0,82536,656,4.65,Medium,nan
+1264,29.0,85624,656,2.95,Medium,Great service!
+1265,31.0,32472,656,9.72,Low,Average.
+1266,26.0,49087,602,7.13,Medium,Great service!
+1267,30.0,52655,689,6.03,Medium,Great service!
+1268,,85624,719,7.84,Medium,Average.
+1269,56.0,82993,628,6.6,Medium,Fees are high.
+1270,52.0,85624,700,3.78,High,Average.
+1271,37.0,85624,705,5.66,High,The app is [MASK].
+1272,29.0,61600,671,11.97,High,The app is [MASK].
+1273,60.0,28279,758,11.63,High,Happy with the app.
+1274,45.0,69557,724,3.38,High,Great service!
+1275,37.0,81912,716,5.65,Medium,nan
+1276,25.0,51169,847,2.07,High,Average.
+1277,25.0,85624,809,3.31,High,Happy with the app.
+1278,35.0,79567,670,3.78,Medium,nan
+1279,32.0,55409,717,6.92,Low,Average.
+1280,28.0,80891,610,7.6,Low,Great service!
+1281,60.0,77022,602,11.76,Medium,nan
+1282,,85624,714,11.97,High,The app is [MASK].
+1283,40.0,53381,604,5.59,Medium,Fees are high.
+1284,46.0,78904,745,11.75,Medium,The app is [MASK].
+1285,25.0,52700,631,7.29,High,The app is [MASK].
+1286,50.0,67243,765,6.9,Low,Average.
+1287,,85624,693,11.27,Medium,The app is [MASK].
+1288,60.0,85624,655,11.52,Medium,Fees are high.
+1289,25.0,33666,673,4.32,Low,Great service!
+1290,25.0,81092,618,11.11,Medium,nan
+1291,31.0,60219,846,2.07,High,Average.
+1292,25.0,82896,746,5.17,Medium,Fees are high.
+1293,29.0,59337,812,4.87,Medium,Happy with the app.
+1294,38.0,85624,663,5.51,Low,Great service!
+1295,25.0,81052,693,8.14,Low,Great service!
+1296,34.0,85624,776,5.69,Low,Fees are high.
+1297,25.0,85624,602,11.16,High,Fees are high.
+1298,25.0,57982,708,2.07,High,Fees are high.
+1299,25.0,40536,812,9.21,High,Fees are high.
+1300,28.0,78277,753,6.08,High,nan
+1301,26.0,85624,621,6.27,High,nan
+1302,58.0,71601,659,6.54,Low,Average.
+1303,33.0,83459,838,11.72,Low,Average.
+1304,25.0,85624,719,8.0,Medium,Average.
+1305,59.0,72752,815,11.97,High,Average.
+1306,25.0,51622,602,11.6,Low,Great service!
+1307,57.0,85624,681,7.41,Medium,Fees are high.
+1308,56.0,59826,604,10.11,High,Average.
+1309,49.0,85624,768,10.09,Low,Average.
+1310,48.0,66594,802,2.07,High,Average.
+1311,25.0,50901,772,11.07,Medium,nan
+1312,25.0,84361,798,7.31,Low,Happy with the app.
+1313,35.0,64595,663,2.07,Low,Fees are high.
+1314,,44000,711,9.39,High,nan
+1315,43.0,74783,698,6.36,High,Happy with the app.
+1316,38.0,61897,761,6.56,Medium,Great service!
+1317,30.0,78092,602,8.08,Medium,Fees are high.
+1318,,32223,617,11.97,Low,Fees are high.
+1319,40.0,85624,718,11.97,Medium,Great service!
+1320,25.0,85624,673,8.33,Medium,The app is [MASK].
+1321,,82444,735,8.39,High,Fees are high.
+1322,,71652,635,6.74,High,nan
+1323,34.0,85624,602,8.87,Low,Average.
+1324,25.0,85624,849,3.47,High,The app is [MASK].
+1325,32.0,85624,718,11.97,Medium,Fees are high.
+1326,25.0,85624,663,11.97,Medium,Average.
+1327,,85167,677,11.14,Medium,Great service!
+1328,31.0,58967,777,2.24,Medium,Fees are high.
+1329,33.0,39041,805,11.32,High,Average.
+1330,45.0,65083,647,2.07,High,Great service!
+1331,25.0,85624,709,11.97,High,Average.
+1332,25.0,35535,689,10.59,High,The app is [MASK].
+1333,29.0,85624,744,6.63,Low,The app is [MASK].
+1334,40.0,35782,602,2.07,Medium,Great service!
+1335,25.0,76685,682,11.97,Medium,Fees are high.
+1336,56.0,69114,732,10.39,Medium,Great service!
+1337,42.0,67791,698,4.68,Low,The app is [MASK].
+1338,26.0,47045,653,2.65,Low,Fees are high.
+1339,34.0,66191,780,5.14,Medium,Fees are high.
+1340,54.0,85624,602,3.04,Medium,Average.
+1341,58.0,77832,602,2.07,Medium,nan
+1342,60.0,41921,753,2.07,Low,Great service!
+1343,38.0,85624,849,2.07,Medium,Average.
+1344,25.0,70292,849,8.75,High,Great service!
+1345,,66831,658,3.45,Medium,Great service!
+1346,52.0,79301,668,6.04,Medium,nan
+1347,29.0,65872,608,9.33,Medium,Great service!
+1348,60.0,76300,757,3.58,Medium,Fees are high.
+1349,30.0,74631,795,2.76,High,Happy with the app.
+1350,47.0,50454,750,10.65,High,Average.
+1351,37.0,68272,716,2.41,High,Great service!
+1352,,85624,718,3.35,Medium,Fees are high.
+1353,,74277,743,7.83,Medium,Fees are high.
+1354,28.0,60190,780,11.97,High,Happy with the app.
+1355,36.0,34771,827,11.97,High,Average.
+1356,25.0,85624,757,11.55,Low,Happy with the app.
+1357,33.0,85624,720,4.93,Medium,Average.
+1358,,61766,653,8.35,High,Happy with the app.
+1359,60.0,85624,696,6.47,Medium,Great service!
+1360,60.0,81139,770,5.22,High,nan
+1361,26.0,50010,749,11.97,High,Fees are high.
+1362,26.0,85624,660,4.55,Medium,Fees are high.
+1363,27.0,55986,602,9.18,Low,Fees are high.
+1364,25.0,28279,602,11.97,Medium,nan
+1365,56.0,59867,602,9.5,Low,Average.
+1366,29.0,58087,687,11.97,Low,The app is [MASK].
+1367,25.0,83371,630,8.33,High,Average.
+1368,25.0,85624,602,7.24,Low,The app is [MASK].
+1369,31.0,58689,602,3.83,High,The app is [MASK].
+1370,29.0,74764,662,2.07,High,Happy with the app.
+1371,25.0,65290,645,2.07,Medium,nan
+1372,37.0,84186,683,10.15,Medium,Fees are high.
+1373,,42025,714,11.97,High,The app is [MASK].
+1374,29.0,35242,733,11.23,Medium,The app is [MASK].
+1375,42.0,85624,705,11.97,Medium,The app is [MASK].
+1376,25.0,85624,602,5.72,Low,nan
+1377,36.0,85624,614,11.66,Low,The app is [MASK].
+1378,39.0,82031,602,2.07,Medium,The app is [MASK].
+1379,30.0,63187,664,11.93,Medium,nan
+1380,39.0,45993,614,4.67,Low,The app is [MASK].
+1381,33.0,36663,727,4.68,High,Happy with the app.
+1382,,78068,671,6.41,Medium,Fees are high.
+1383,29.0,75152,668,9.17,High,Happy with the app.
+1384,53.0,59701,702,8.15,High,Great service!
+1385,51.0,82856,757,7.35,Medium,Great service!
+1386,26.0,45011,657,7.43,Low,Happy with the app.
+1387,60.0,85624,742,11.6,High,Fees are high.
+1388,41.0,85624,602,3.34,Low,nan
+1389,49.0,85624,648,9.38,Medium,Fees are high.
+1390,28.0,70123,657,8.44,Medium,nan
+1391,25.0,41325,629,2.07,High,Great service!
+1392,48.0,85624,732,8.54,High,The app is [MASK].
+1393,26.0,73720,602,9.05,High,Great service!
+1394,30.0,69944,799,11.86,Low,nan
+1395,45.0,69984,745,11.97,Medium,Fees are high.
+1396,29.0,63162,728,11.57,Medium,Great service!
+1397,41.0,71142,694,2.5,Medium,nan
+1398,32.0,58312,633,3.81,High,nan
+1399,30.0,64108,677,10.24,Low,Fees are high.
+1400,28.0,85624,772,7.23,High,Great service!
+1401,,85624,602,10.68,Low,nan
+1402,33.0,50509,602,6.5,Medium,Great service!
+1403,41.0,60433,671,6.17,Low,Fees are high.
+1404,25.0,73038,634,2.07,High,Great service!
+1405,28.0,39864,698,9.55,High,Happy with the app.
+1406,28.0,48624,602,5.73,High,Fees are high.
+1407,26.0,59061,602,7.8,Medium,Fees are high.
+1408,30.0,85624,743,5.87,High,Fees are high.
+1409,27.0,67552,602,2.07,High,Fees are high.
+1410,30.0,65601,645,2.07,Medium,Fees are high.
+1411,,41009,619,7.12,Low,Fees are high.
+1412,25.0,84655,721,11.97,Medium,nan
+1413,46.0,85624,637,11.59,Medium,Average.
+1414,36.0,71264,700,3.64,High,Average.
+1415,25.0,67677,639,10.49,Medium,nan
+1416,25.0,58831,705,6.98,Low,Happy with the app.
+1417,60.0,66368,602,3.95,Medium,The app is [MASK].
+1418,37.0,76793,602,6.34,High,Average.
+1419,38.0,51369,715,5.57,High,Great service!
+1420,31.0,38837,745,4.6,High,Fees are high.
+1421,49.0,85624,695,10.04,Medium,nan
+1422,50.0,68734,719,5.95,Medium,nan
+1423,,61098,827,3.74,Medium,The app is [MASK].
+1424,27.0,68922,602,6.63,High,Fees are high.
+1425,45.0,85624,602,7.08,High,Average.
+1426,31.0,74050,602,2.07,High,nan
+1427,33.0,71777,602,6.45,Medium,Great service!
+1428,38.0,64289,661,6.98,Medium,Average.
+1429,55.0,63942,759,11.97,High,Average.
+1430,34.0,85624,602,2.07,Low,Average.
+1431,29.0,84486,673,11.17,Medium,The app is [MASK].
+1432,49.0,38404,602,7.08,Low,Average.
+1433,31.0,66722,769,11.97,High,Fees are high.
+1434,45.0,85624,692,3.31,High,Average.
+1435,36.0,38637,806,6.85,Medium,Fees are high.
+1436,26.0,47884,814,11.97,High,Great service!
+1437,60.0,28279,602,4.73,High,Average.
+1438,25.0,85624,667,5.78,Low,Great service!
+1439,25.0,47923,658,6.06,High,nan
+1440,43.0,71956,650,7.31,Low,nan
+1441,,41680,623,11.97,Low,Great service!
+1442,39.0,48829,602,4.36,High,Average.
+1443,,55215,646,11.49,Low,Average.
+1444,29.0,85624,849,8.47,Low,Average.
+1445,26.0,82806,671,5.1,Medium,Fees are high.
+1446,26.0,83592,602,7.04,Medium,Fees are high.
+1447,37.0,58207,745,9.15,High,Average.
+1448,38.0,72313,704,7.44,Medium,The app is [MASK].
+1449,25.0,61987,680,10.34,Medium,The app is [MASK].
+1450,51.0,77754,656,9.61,Medium,The app is [MASK].
+1451,40.0,57446,639,10.45,High,Great service!
+1452,36.0,66649,602,3.62,Low,nan
+1453,51.0,37451,602,9.93,High,Fees are high.
+1454,60.0,85624,787,10.76,High,Great service!
+1455,34.0,50486,775,8.78,High,Happy with the app.
+1456,26.0,35086,659,4.16,High,Average.
+1457,25.0,42993,644,11.97,Low,Great service!
+1458,36.0,77288,753,9.16,Medium,The app is [MASK].
+1459,31.0,28279,792,3.89,Medium,nan
+1460,50.0,45651,849,5.16,High,The app is [MASK].
+1461,,85624,742,3.28,Medium,Great service!
+1462,25.0,48929,696,11.97,Medium,Happy with the app.
+1463,41.0,85624,602,8.46,Medium,Great service!
+1464,36.0,28279,691,2.44,Low,Average.
+1465,60.0,78791,814,5.4,Low,Fees are high.
+1466,28.0,82060,737,6.16,High,Fees are high.
+1467,25.0,76868,768,2.07,Medium,Average.
+1468,25.0,78535,763,4.82,Medium,Fees are high.
+1469,27.0,30605,771,11.97,High,The app is [MASK].
+1470,34.0,85624,758,4.25,Medium,The app is [MASK].
+1471,,66835,628,10.78,High,Great service!
+1472,37.0,85624,653,2.24,Medium,Happy with the app.
+1473,37.0,82917,659,5.27,High,Fees are high.
+1474,,75868,748,6.78,High,The app is [MASK].
+1475,58.0,85624,767,5.18,High,Average.
+1476,33.0,62767,716,2.07,Medium,The app is [MASK].
+1477,34.0,85624,633,11.84,Medium,Great service!
+1478,,55209,609,11.47,High,Happy with the app.
+1479,29.0,28279,769,4.34,High,nan
+1480,49.0,82007,714,11.97,Medium,nan
+1481,25.0,85624,722,2.39,Low,Fees are high.
+1482,33.0,41196,800,2.07,High,Fees are high.
+1483,55.0,70392,749,10.78,High,Happy with the app.
+1484,43.0,85624,731,2.4,Medium,Average.
+1485,31.0,77773,689,4.78,Medium,Average.
+1486,25.0,57849,708,11.28,High,Fees are high.
+1487,33.0,28279,736,7.27,Medium,Great service!
+1488,53.0,51939,849,6.4,High,Fees are high.
+1489,25.0,45519,603,8.74,Medium,Great service!
+1490,,65150,602,11.97,Low,Average.
+1491,30.0,28279,774,5.16,High,nan
+1492,26.0,78281,708,3.9,Medium,Fees are high.
+1493,60.0,41251,806,9.76,High,Fees are high.
+1494,38.0,85624,678,11.97,Medium,The app is [MASK].
+1495,35.0,28279,764,8.22,Medium,Great service!
+1496,38.0,40888,719,5.62,High,The app is [MASK].
+1497,38.0,72222,747,7.03,Medium,Fees are high.
+1498,37.0,31786,615,7.18,High,Happy with the app.
+1499,29.0,28279,737,2.43,Medium,Fees are high.
+1500,25.0,29742,795,8.58,High,Fees are high.
+1501,33.0,39141,602,10.01,High,The app is [MASK].
+1502,30.0,58962,780,7.14,High,Average.
+1503,28.0,72077,659,2.07,High,Fees are high.
+1504,29.0,69567,602,9.74,High,Average.
+1505,28.0,71195,777,11.06,Medium,Average.
+1506,,57306,731,11.97,Medium,nan
+1507,28.0,85624,602,10.11,Medium,Great service!
+1508,43.0,85624,647,4.12,High,Fees are high.
+1509,32.0,40051,602,2.07,Medium,Happy with the app.
+1510,60.0,31421,799,8.66,Low,nan
+1511,39.0,85624,602,11.3,Low,Happy with the app.
+1512,40.0,71474,602,11.64,Low,Average.
+1513,27.0,55660,725,4.94,Medium,Average.
+1514,25.0,45199,770,8.88,High,Average.
+1515,38.0,62102,764,2.07,Medium,Average.
+1516,32.0,85624,750,11.97,High,Average.
+1517,40.0,81033,655,6.09,Low,Average.
+1518,35.0,79492,623,10.94,Medium,Happy with the app.
+1519,32.0,30597,656,3.33,High,nan
+1520,32.0,85624,602,4.76,Low,Happy with the app.
+1521,34.0,34497,602,5.76,High,Great service!
+1522,,60431,624,8.72,High,Happy with the app.
+1523,25.0,85624,610,4.05,Medium,nan
+1524,55.0,69825,780,10.63,High,Fees are high.
+1525,39.0,52455,647,8.14,Medium,Average.
+1526,38.0,84341,664,11.13,Low,Fees are high.
+1527,26.0,85624,775,2.91,Medium,Great service!
+1528,,85624,654,2.73,Low,Great service!
+1529,32.0,51779,602,11.97,Low,Happy with the app.
+1530,37.0,57354,714,9.29,High,Fees are high.
+1531,41.0,76299,602,6.64,Low,Great service!
+1532,27.0,85624,849,2.07,Medium,Fees are high.
+1533,25.0,37272,602,6.38,Medium,Great service!
+1534,43.0,85624,721,3.32,Medium,Fees are high.
+1535,34.0,63279,849,2.07,Low,The app is [MASK].
+1536,31.0,77093,602,3.73,High,Fees are high.
+1537,60.0,33822,602,11.97,High,Happy with the app.
+1538,41.0,28279,749,5.36,High,Average.
+1539,25.0,85624,602,8.08,Medium,Great service!
+1540,41.0,44466,602,11.49,Low,Average.
+1541,27.0,63529,676,3.0,High,Fees are high.
+1542,38.0,31074,645,5.3,High,Fees are high.
+1543,,57879,734,10.12,Low,Average.
+1544,30.0,54597,849,4.38,Medium,Fees are high.
+1545,25.0,85624,797,9.68,High,Fees are high.
+1546,34.0,85624,777,11.97,Medium,nan
+1547,36.0,71316,632,3.1,High,The app is [MASK].
+1548,,42371,602,11.87,Medium,The app is [MASK].
+1549,25.0,67794,628,9.53,Low,Happy with the app.
+1550,36.0,85624,692,10.02,Medium,Fees are high.
+1551,60.0,76445,714,3.57,High,Fees are high.
+1552,,28279,602,4.76,High,Happy with the app.
+1553,25.0,46250,727,4.93,Low,nan
+1554,25.0,28279,693,2.99,Medium,Average.
+1555,45.0,34485,782,8.17,High,Happy with the app.
+1556,29.0,59582,728,4.89,Medium,nan
+1557,37.0,36053,776,11.11,Low,Great service!
+1558,,37665,780,11.6,High,Fees are high.
+1559,60.0,48818,602,9.77,Medium,Fees are high.
+1560,53.0,34037,705,9.35,Low,Average.
+1561,34.0,85624,757,11.97,Low,Great service!
+1562,38.0,81517,602,6.53,Medium,Great service!
+1563,25.0,66667,804,3.03,High,The app is [MASK].
+1564,,72437,795,4.55,Medium,Fees are high.
+1565,28.0,85624,602,7.34,Medium,Average.
+1566,49.0,28279,820,8.9,Medium,Happy with the app.
+1567,40.0,44589,602,5.92,Low,Average.
+1568,28.0,85624,807,6.3,High,Great service!
+1569,25.0,61405,828,6.39,High,Happy with the app.
+1570,25.0,77466,602,6.09,Low,Fees are high.
+1571,51.0,85624,724,8.16,Medium,The app is [MASK].
+1572,25.0,49363,682,10.77,High,Average.
+1573,45.0,45768,770,5.94,Low,Fees are high.
+1574,25.0,60234,602,7.25,High,The app is [MASK].
+1575,49.0,85624,652,3.22,High,Happy with the app.
+1576,32.0,43844,602,3.99,High,The app is [MASK].
+1577,52.0,84988,701,11.64,High,Average.
+1578,26.0,76787,763,3.54,High,Happy with the app.
+1579,25.0,56825,670,10.07,High,Fees are high.
+1580,32.0,85624,825,3.39,Low,Great service!
+1581,25.0,46141,742,8.61,High,Great service!
+1582,47.0,75463,772,11.54,Medium,nan
+1583,56.0,54844,724,8.53,Low,Great service!
+1584,37.0,30676,654,5.19,Low,Fees are high.
+1585,,59692,604,7.9,High,Great service!
+1586,,77468,758,8.39,High,Great service!
+1587,53.0,54593,602,9.2,Medium,The app is [MASK].
+1588,25.0,47408,774,11.97,High,Average.
+1589,25.0,82000,643,6.6,Medium,Fees are high.
+1590,60.0,35200,667,11.97,High,Happy with the app.
+1591,25.0,85624,761,3.27,High,The app is [MASK].
+1592,,85624,697,11.97,Medium,Great service!
+1593,26.0,40350,688,2.07,Medium,Fees are high.
+1594,44.0,85624,678,2.07,Medium,The app is [MASK].
+1595,44.0,75994,602,8.84,High,Happy with the app.
+1596,25.0,59654,724,2.07,Medium,Fees are high.
+1597,30.0,77890,675,11.41,High,The app is [MASK].
+1598,33.0,56224,617,11.97,High,nan
+1599,50.0,78482,719,6.85,Medium,nan
+1600,56.0,85624,756,6.43,Medium,The app is [MASK].
+1601,59.0,66170,634,2.47,Medium,Fees are high.
+1602,32.0,55859,602,4.19,High,nan
+1603,48.0,53887,602,11.97,Medium,Average.
+1604,39.0,30663,660,11.59,High,Average.
+1605,47.0,54908,602,6.76,Low,Average.
+1606,25.0,28279,602,3.31,Low,nan
+1607,49.0,83254,791,6.29,Medium,Great service!
+1608,35.0,39383,602,6.51,High,The app is [MASK].
+1609,25.0,63813,727,6.54,Low,Average.
+1610,,62591,670,9.49,Low,Happy with the app.
+1611,25.0,85624,602,7.52,High,nan
+1612,,85624,703,6.53,Medium,Happy with the app.
+1613,29.0,85624,691,7.59,Medium,Average.
+1614,50.0,68893,750,11.93,Medium,The app is [MASK].
+1615,41.0,85624,685,3.0,Low,Great service!
+1616,26.0,57896,694,11.97,High,Happy with the app.
+1617,31.0,68036,765,5.81,High,Happy with the app.
+1618,,85624,820,11.09,Medium,Average.
+1619,25.0,52591,626,2.07,Low,The app is [MASK].
+1620,41.0,75625,721,11.97,High,nan
+1621,,61504,746,4.1,Medium,nan
+1622,45.0,47602,741,5.16,High,nan
+1623,27.0,59621,709,5.28,High,The app is [MASK].
+1624,26.0,85624,602,11.97,Low,The app is [MASK].
+1625,25.0,77340,782,2.31,Low,Great service!
+1626,25.0,37610,693,8.21,Medium,Great service!
+1627,35.0,78839,602,5.59,High,Great service!
+1628,28.0,85624,795,6.16,Medium,The app is [MASK].
+1629,33.0,75667,662,9.67,Low,Average.
+1630,,52707,716,2.43,High,The app is [MASK].
+1631,25.0,65320,646,10.7,Low,Average.
+1632,26.0,39299,728,6.31,High,The app is [MASK].
+1633,36.0,55026,656,2.07,Medium,nan
+1634,42.0,76482,643,10.73,Medium,Fees are high.
+1635,25.0,85624,797,8.54,Medium,Great service!
+1636,30.0,82775,849,8.88,Medium,nan
+1637,25.0,45483,660,2.07,Medium,nan
+1638,25.0,75114,756,11.97,High,Fees are high.
+1639,28.0,58129,731,6.65,Medium,Fees are high.
+1640,38.0,43205,680,3.5,High,Great service!
+1641,41.0,51215,693,5.34,High,Fees are high.
+1642,37.0,85624,602,5.49,Medium,Average.
+1643,31.0,76268,738,8.54,Medium,Average.
+1644,25.0,44311,676,9.9,Medium,nan
+1645,32.0,80681,602,2.44,High,Great service!
+1646,,33666,602,4.55,High,The app is [MASK].
+1647,39.0,60434,732,11.97,Low,Fees are high.
+1648,,45492,604,5.25,High,Great service!
+1649,33.0,54254,849,3.83,Medium,nan
+1650,34.0,37434,602,6.62,Medium,Great service!
+1651,37.0,85624,768,6.25,Medium,Great service!
+1652,29.0,58450,808,11.97,High,Happy with the app.
+1653,44.0,60722,602,10.02,High,Average.
+1654,33.0,45560,602,7.47,High,Fees are high.
+1655,26.0,84188,667,3.3,Medium,Great service!
+1656,25.0,62832,654,2.07,High,nan
+1657,,46408,792,3.75,High,nan
+1658,39.0,64451,688,11.33,Medium,Great service!
+1659,25.0,75640,618,11.2,Low,Great service!
+1660,54.0,85624,602,4.72,High,Happy with the app.
+1661,35.0,38213,686,5.37,High,Average.
+1662,59.0,67962,849,4.86,Medium,nan
+1663,25.0,85624,757,11.97,Medium,The app is [MASK].
+1664,,36088,837,5.79,Low,Happy with the app.
+1665,31.0,31222,844,6.31,High,nan
+1666,29.0,85624,676,9.96,Low,Happy with the app.
+1667,25.0,85624,784,7.25,Medium,The app is [MASK].
+1668,34.0,60775,602,7.14,High,The app is [MASK].
+1669,25.0,62941,702,8.87,Low,Great service!
+1670,35.0,64680,642,2.07,Low,Great service!
+1671,29.0,85624,823,2.07,Medium,Fees are high.
+1672,60.0,85624,721,6.26,Medium,Average.
+1673,47.0,85624,640,5.08,Low,Great service!
+1674,25.0,72454,823,11.55,Medium,The app is [MASK].
+1675,25.0,74543,629,3.87,Medium,Great service!
+1676,34.0,85624,778,11.85,Medium,Great service!
+1677,60.0,85624,763,2.63,Low,Fees are high.
+1678,60.0,80532,602,2.48,Low,The app is [MASK].
+1679,37.0,30205,707,11.21,High,Average.
+1680,25.0,73114,634,5.56,Medium,nan
+1681,31.0,85624,628,7.99,Low,The app is [MASK].
+1682,25.0,51468,849,7.09,Medium,nan
+1683,37.0,52777,837,4.28,Medium,nan
+1684,50.0,67543,602,3.31,High,Happy with the app.
+1685,26.0,84048,706,11.97,Medium,The app is [MASK].
+1686,37.0,85624,687,7.7,Low,nan
+1687,51.0,80959,725,7.8,Low,Fees are high.
+1688,29.0,28279,663,5.41,Low,Great service!
+1689,39.0,85624,773,4.51,Low,The app is [MASK].
+1690,36.0,85624,714,8.43,Medium,Fees are high.
+1691,25.0,81496,780,11.97,High,Average.
+1692,,69930,793,8.49,Medium,Great service!
+1693,43.0,28279,602,11.97,Medium,The app is [MASK].
+1694,60.0,36227,691,11.97,Medium,Fees are high.
+1695,25.0,85624,674,5.22,Low,The app is [MASK].
+1696,44.0,76959,755,10.53,Low,Average.
+1697,25.0,73543,784,11.97,High,Fees are high.
+1698,,48143,602,2.07,High,Great service!
+1699,31.0,67835,762,6.77,Low,Average.
+1700,27.0,85624,668,10.26,Medium,Fees are high.
+1701,33.0,67306,743,10.23,High,The app is [MASK].
+1702,32.0,75237,602,2.07,Low,Average.
+1703,25.0,71242,691,4.05,High,Fees are high.
+1704,26.0,28279,722,7.08,Low,Fees are high.
+1705,36.0,85624,741,8.71,High,The app is [MASK].
+1706,29.0,38036,725,6.53,Medium,nan
+1707,40.0,28279,782,4.69,High,Happy with the app.
+1708,36.0,73314,716,8.08,Medium,The app is [MASK].
+1709,32.0,85624,748,4.15,High,Fees are high.
+1710,54.0,61425,814,2.89,Low,The app is [MASK].
+1711,43.0,85624,602,11.97,Medium,Average.
+1712,52.0,72687,648,2.07,Low,The app is [MASK].
+1713,,85624,681,2.75,Medium,Happy with the app.
+1714,25.0,51129,691,6.12,Medium,Happy with the app.
+1715,29.0,85624,711,2.07,Medium,Fees are high.
+1716,25.0,85531,653,9.85,High,The app is [MASK].
+1717,45.0,56711,841,9.6,Medium,nan
+1718,47.0,64585,602,11.97,High,nan
+1719,25.0,85624,763,8.67,Medium,Great service!
+1720,41.0,56200,777,4.79,Medium,Great service!
+1721,25.0,77419,707,8.35,High,Happy with the app.
+1722,28.0,28279,706,7.25,Low,Great service!
+1723,27.0,85624,602,10.19,Low,Great service!
+1724,40.0,79508,674,6.7,Medium,Fees are high.
+1725,34.0,81771,682,2.58,Medium,The app is [MASK].
+1726,25.0,81076,768,5.56,Medium,nan
+1727,27.0,56058,838,5.1,High,Great service!
+1728,40.0,61562,667,4.09,Low,Happy with the app.
+1729,55.0,85624,758,5.38,Medium,The app is [MASK].
+1730,,69691,707,2.5,High,Fees are high.
+1731,43.0,82577,633,7.3,High,Average.
+1732,27.0,85624,619,4.88,Medium,nan
+1733,25.0,85624,710,11.97,Low,The app is [MASK].
+1734,57.0,39693,677,11.61,Low,nan
+1735,,85624,662,2.77,High,Fees are high.
+1736,,32058,704,4.07,Low,Happy with the app.
+1737,25.0,59538,668,2.07,Medium,nan
+1738,26.0,55981,780,3.18,Low,nan
+1739,25.0,79837,602,7.24,High,Great service!
+1740,32.0,67246,672,11.97,High,Average.
+1741,39.0,85624,628,2.77,Medium,Happy with the app.
+1742,38.0,62518,797,11.97,Low,The app is [MASK].
+1743,33.0,69562,732,6.68,High,nan
+1744,33.0,85624,827,10.36,Medium,Average.
+1745,29.0,54884,735,6.27,Low,Fees are high.
+1746,60.0,46297,770,8.38,High,Happy with the app.
+1747,32.0,85624,642,9.67,High,Happy with the app.
+1748,53.0,67563,756,11.97,Medium,The app is [MASK].
+1749,28.0,85624,721,2.8,Medium,Fees are high.
+1750,25.0,85624,602,6.46,Medium,Average.
+1751,25.0,63443,680,7.29,High,Average.
+1752,60.0,85624,813,5.99,Medium,Fees are high.
+1753,56.0,82520,602,11.3,Medium,Average.
+1754,36.0,48383,773,5.27,Low,Happy with the app.
+1755,,72120,649,8.52,Medium,nan
+1756,43.0,77200,616,6.49,Medium,nan
+1757,32.0,74026,656,6.9,High,Fees are high.
+1758,26.0,28279,648,2.07,Low,Great service!
+1759,25.0,42218,707,2.11,Medium,Great service!
+1760,,30339,742,8.88,Low,Great service!
+1761,60.0,29205,665,5.25,High,nan
+1762,35.0,73969,669,11.97,Medium,The app is [MASK].
+1763,45.0,81749,674,7.78,Medium,The app is [MASK].
+1764,49.0,85624,698,5.62,High,nan
+1765,59.0,85624,813,3.13,High,Great service!
+1766,39.0,85624,684,7.31,Low,nan
+1767,,85624,602,6.64,Medium,Average.
+1768,43.0,52709,676,2.07,High,The app is [MASK].
+1769,34.0,47737,685,2.07,Low,Happy with the app.
+1770,37.0,68442,689,11.86,Medium,nan
+1771,25.0,49713,602,11.65,Low,Average.
+1772,51.0,47791,835,2.49,High,Happy with the app.
+1773,44.0,85624,618,4.4,Low,Average.
+1774,39.0,35276,773,8.88,High,nan
+1775,52.0,44617,694,10.64,High,Great service!
+1776,25.0,73190,768,6.79,Low,Fees are high.
+1777,30.0,43020,696,11.97,Low,The app is [MASK].
+1778,42.0,85624,677,7.45,Low,The app is [MASK].
+1779,,62057,832,10.4,Medium,The app is [MASK].
+1780,,85624,736,11.59,High,Happy with the app.
+1781,60.0,83361,602,11.05,Medium,The app is [MASK].
+1782,37.0,72008,705,5.72,Low,Great service!
+1783,38.0,62748,602,9.3,Low,Fees are high.
+1784,56.0,85624,649,11.97,High,Average.
+1785,25.0,61643,727,5.32,Low,The app is [MASK].
+1786,25.0,41326,727,3.18,High,Fees are high.
+1787,,85624,677,11.1,Low,Great service!
+1788,25.0,36671,735,5.9,Low,Fees are high.
+1789,37.0,68568,788,8.69,Medium,Great service!
+1790,25.0,67065,743,3.55,High,Great service!
+1791,33.0,85624,672,3.54,Medium,The app is [MASK].
+1792,42.0,50026,724,2.07,Medium,Average.
+1793,,59446,849,10.71,Medium,Fees are high.
+1794,35.0,58886,843,9.02,Medium,Average.
+1795,43.0,62034,720,4.25,Medium,Great service!
+1796,33.0,82627,622,8.43,Medium,Fees are high.
+1797,30.0,85624,827,5.28,Medium,Fees are high.
+1798,25.0,70611,757,6.67,High,Happy with the app.
+1799,,85624,614,6.23,Low,nan
+1800,41.0,85624,743,11.63,Low,Great service!
+1801,25.0,67535,624,11.97,Medium,Fees are high.
+1802,31.0,69190,732,9.2,Medium,Great service!
+1803,35.0,53702,655,2.07,Medium,Great service!
+1804,60.0,85624,650,9.26,Low,Average.
+1805,25.0,71069,698,11.97,Medium,nan
+1806,60.0,28279,656,6.74,Low,Great service!
+1807,34.0,85624,639,6.7,Low,nan
+1808,39.0,85624,784,2.23,High,Fees are high.
+1809,25.0,38862,849,3.5,Low,Happy with the app.
+1810,43.0,85624,602,8.89,Medium,The app is [MASK].
+1811,33.0,85624,639,7.88,Medium,The app is [MASK].
+1812,39.0,53127,727,8.59,High,nan
+1813,34.0,85624,602,2.83,High,Happy with the app.
+1814,25.0,55366,843,11.97,Low,Fees are high.
+1815,25.0,57310,755,11.97,High,Happy with the app.
+1816,,85624,660,5.48,Low,The app is [MASK].
+1817,39.0,28644,602,10.95,Medium,Happy with the app.
+1818,25.0,85624,692,2.07,Medium,Fees are high.
+1819,,85624,820,9.02,Low,The app is [MASK].
+1820,40.0,85624,602,7.92,Medium,Average.
+1821,30.0,76357,830,5.44,High,Average.
+1822,41.0,85624,839,4.42,Low,nan
+1823,60.0,85624,656,4.5,Medium,Fees are high.
+1824,25.0,85624,602,9.71,High,nan
+1825,41.0,67455,722,3.87,Low,Average.
+1826,44.0,85624,779,4.16,Medium,Fees are high.
+1827,25.0,82070,729,2.07,Low,The app is [MASK].
+1828,41.0,85624,730,9.87,Medium,Average.
+1829,52.0,50794,842,6.65,High,nan
+1830,33.0,85624,700,9.57,High,Average.
+1831,25.0,68746,705,6.03,Medium,Happy with the app.
+1832,51.0,41880,688,8.82,High,Fees are high.
+1833,25.0,58741,806,8.1,Medium,The app is [MASK].
+1834,25.0,85624,841,10.57,Low,Average.
+1835,34.0,68886,719,4.28,Medium,Average.
+1836,27.0,85624,814,2.07,Medium,The app is [MASK].
+1837,36.0,60275,602,4.0,Low,Fees are high.
+1838,27.0,84444,668,3.5,Low,Average.
+1839,33.0,43875,774,9.89,High,Fees are high.
+1840,35.0,76276,727,4.73,Medium,Fees are high.
+1841,31.0,84870,698,6.4,High,Fees are high.
+1842,25.0,57198,740,3.77,High,nan
+1843,41.0,72442,670,9.84,Low,The app is [MASK].
+1844,,66177,605,6.67,Low,Happy with the app.
+1845,,80779,652,3.87,Medium,The app is [MASK].
+1846,60.0,64579,661,7.53,Medium,The app is [MASK].
+1847,,85624,698,3.19,Low,Fees are high.
+1848,36.0,85624,727,3.17,High,Fees are high.
+1849,25.0,74517,763,11.97,High,Happy with the app.
+1850,34.0,83132,610,2.64,Medium,The app is [MASK].
+1851,50.0,31581,744,8.25,High,Fees are high.
+1852,53.0,76321,602,3.33,Low,nan
+1853,52.0,85624,849,2.3,High,nan
+1854,44.0,85624,786,6.51,Medium,Fees are high.
+1855,44.0,85624,736,7.35,High,Great service!
+1856,37.0,84877,692,6.19,Medium,The app is [MASK].
+1857,,77884,611,11.97,Medium,Great service!
+1858,,62835,629,6.38,Medium,Great service!
+1859,,73852,651,4.45,Low,The app is [MASK].
+1860,60.0,85624,676,8.43,Medium,nan
+1861,,79956,664,4.57,Low,Fees are high.
+1862,38.0,42200,655,5.93,Medium,Average.
+1863,25.0,57320,733,11.97,Low,Happy with the app.
+1864,25.0,83175,747,4.22,Medium,Great service!
+1865,26.0,85624,777,9.37,Medium,nan
+1866,43.0,82431,630,4.86,Medium,Great service!
+1867,25.0,83398,697,6.44,Medium,nan
+1868,60.0,85624,661,8.65,High,Great service!
+1869,40.0,70766,722,2.07,Medium,The app is [MASK].
+1870,25.0,85284,724,9.13,Medium,Great service!
+1871,32.0,55923,706,4.35,High,Fees are high.
+1872,31.0,31647,811,11.2,High,Great service!
+1873,30.0,85160,616,3.79,Low,The app is [MASK].
+1874,,51610,803,5.15,High,Average.
+1875,,76656,718,2.74,High,nan
+1876,44.0,58510,635,6.37,Low,nan
+1877,41.0,85624,602,7.42,Low,Average.
+1878,34.0,83491,602,4.12,Medium,The app is [MASK].
+1879,,54565,669,9.84,High,Fees are high.
+1880,49.0,55955,823,7.56,Medium,Average.
+1881,26.0,28279,717,2.07,Medium,Average.
+1882,28.0,59340,694,5.92,Medium,Average.
+1883,,38845,664,7.39,Medium,Great service!
+1884,54.0,28279,647,7.4,Low,Happy with the app.
+1885,31.0,85624,694,10.63,High,nan
+1886,45.0,76210,642,9.91,Medium,nan
+1887,30.0,60635,602,2.07,High,The app is [MASK].
+1888,35.0,82377,602,2.07,Low,The app is [MASK].
+1889,,69396,706,11.0,Low,nan
+1890,,85624,625,10.24,Low,nan
+1891,27.0,85624,648,3.84,Medium,Fees are high.
+1892,46.0,78595,726,8.34,Medium,Fees are high.
+1893,26.0,85624,833,11.97,Medium,Average.
+1894,25.0,78838,602,11.97,Low,Fees are high.
+1895,25.0,85624,783,7.4,Medium,Great service!
+1896,45.0,83131,805,5.49,Medium,nan
+1897,26.0,77520,640,7.03,Medium,The app is [MASK].
+1898,29.0,85624,739,8.33,High,Average.
+1899,26.0,83994,695,4.84,Medium,Happy with the app.
+1900,52.0,85018,645,5.27,High,nan
+1901,26.0,58741,725,9.58,High,Great service!
+1902,52.0,53120,659,3.82,High,nan
+1903,38.0,74069,670,11.97,High,Great service!
+1904,42.0,39781,667,4.87,Low,Average.
+1905,31.0,85624,654,9.55,Low,nan
+1906,29.0,63311,829,4.48,Low,Fees are high.
+1907,53.0,85624,748,6.18,Medium,Fees are high.
+1908,25.0,85624,788,2.43,High,Happy with the app.
+1909,38.0,34952,774,6.41,High,Fees are high.
+1910,29.0,85624,630,2.71,Medium,The app is [MASK].
+1911,35.0,75260,696,11.97,Medium,The app is [MASK].
+1912,42.0,80711,740,11.97,Low,Fees are high.
+1913,28.0,70066,622,2.71,High,Fees are high.
+1914,35.0,85624,699,8.95,Medium,Average.
+1915,60.0,54783,602,2.76,High,Fees are high.
+1916,53.0,56660,637,7.66,High,Average.
+1917,25.0,69027,602,2.58,Medium,Great service!
+1918,29.0,74247,602,11.97,Medium,Fees are high.
+1919,32.0,41392,617,3.94,Medium,Happy with the app.
+1920,57.0,85624,681,6.16,High,nan
+1921,34.0,85624,602,7.3,Medium,Happy with the app.
+1922,42.0,59978,602,4.55,High,Happy with the app.
+1923,25.0,62188,826,9.53,Low,Fees are high.
+1924,28.0,85624,766,9.36,Medium,The app is [MASK].
+1925,38.0,65899,689,7.2,High,nan
+1926,25.0,75905,822,9.74,High,The app is [MASK].
+1927,45.0,85624,679,10.78,Medium,Great service!
+1928,27.0,68248,794,7.73,Medium,Great service!
+1929,,85624,721,3.08,Medium,Great service!
+1930,47.0,56669,758,11.97,High,The app is [MASK].
+1931,49.0,85624,658,9.03,High,Happy with the app.
+1932,25.0,62869,791,11.93,Low,The app is [MASK].
+1933,25.0,44570,705,5.3,High,Fees are high.
+1934,49.0,75950,765,9.15,High,Happy with the app.
+1935,26.0,50064,611,11.33,High,Happy with the app.
+1936,29.0,83630,614,2.07,Low,Average.
+1937,59.0,53640,602,9.41,Medium,Great service!
+1938,25.0,34431,743,6.03,Medium,The app is [MASK].
+1939,25.0,63111,716,6.79,High,Fees are high.
+1940,29.0,56110,607,11.97,High,Happy with the app.
+1941,31.0,85624,809,4.08,Medium,The app is [MASK].
+1942,25.0,85624,705,6.96,Medium,nan
+1943,,37388,623,6.64,High,Great service!
+1944,25.0,54477,627,11.97,Medium,Fees are high.
+1945,,85624,804,9.33,Low,Fees are high.
+1946,25.0,64143,835,5.83,High,Average.
+1947,50.0,81504,782,9.83,Low,Fees are high.
+1948,25.0,85624,745,6.27,Low,Fees are high.
+1949,60.0,85624,708,2.74,High,nan
+1950,29.0,85624,602,4.13,Medium,The app is [MASK].
+1951,25.0,78410,602,8.53,Medium,Happy with the app.
+1952,28.0,55594,765,4.46,High,Great service!
+1953,28.0,85624,698,8.92,Medium,Fees are high.
+1954,28.0,85624,679,3.16,High,The app is [MASK].
+1955,34.0,48807,712,2.07,High,The app is [MASK].
+1956,56.0,80578,602,11.97,High,Happy with the app.
+1957,25.0,85624,688,2.66,Low,nan
+1958,40.0,43959,603,7.22,High,nan
+1959,32.0,85624,602,6.09,Medium,nan
+1960,36.0,85624,603,11.97,High,Happy with the app.
+1961,30.0,49043,739,7.31,High,nan
+1962,27.0,34655,727,2.07,High,Great service!
+1963,25.0,52131,733,8.38,Low,Average.
+1964,25.0,85624,624,11.31,Medium,Fees are high.
+1965,60.0,43614,728,5.29,Low,nan
+1966,,85045,694,8.66,Medium,Great service!
+1967,37.0,80175,619,2.43,Low,Great service!
+1968,34.0,34722,669,4.79,Low,Happy with the app.
+1969,31.0,72713,766,2.07,Medium,Fees are high.
+1970,43.0,28279,772,5.85,Low,Average.
+1971,35.0,53920,719,4.71,Low,The app is [MASK].
+1972,25.0,56081,849,9.77,High,Happy with the app.
+1973,25.0,57148,643,9.63,High,The app is [MASK].
+1974,,58904,634,4.44,High,Happy with the app.
+1975,39.0,34586,682,9.08,Medium,The app is [MASK].
+1976,27.0,85624,617,7.54,Low,The app is [MASK].
+1977,25.0,85624,781,5.0,Medium,The app is [MASK].
+1978,35.0,72712,785,4.99,Medium,Average.
+1979,60.0,69142,681,7.54,Medium,nan
+1980,44.0,35809,636,9.34,Low,Average.
+1981,35.0,66204,623,5.91,Medium,Average.
+1982,53.0,64393,708,2.07,Low,Fees are high.
+1983,25.0,85624,688,11.97,Medium,nan
+1984,60.0,71642,602,6.96,Medium,nan
+1985,51.0,85249,677,10.51,High,The app is [MASK].
+1986,,80015,825,7.22,Low,Great service!
+1987,,85624,602,7.74,Low,Happy with the app.
+1988,41.0,59044,734,3.82,Low,Average.
+1989,37.0,43754,668,5.93,Medium,nan
+1990,35.0,75002,687,11.97,Medium,Average.
+1991,,85624,602,6.67,High,Average.
+1992,28.0,51721,651,2.07,Medium,nan
+1993,26.0,28279,738,3.38,High,Happy with the app.
+1994,,85624,733,8.52,Medium,The app is [MASK].
+1995,42.0,58835,705,10.33,High,Great service!
+1996,47.0,67529,679,11.97,Medium,Happy with the app.
+1997,35.0,32898,719,10.51,Low,Average.
+1998,38.0,41286,643,5.5,Low,Fees are high.
+1999,60.0,54802,713,9.42,High,Average.
+2000,60.0,83300,612,7.99,Low,Average.
