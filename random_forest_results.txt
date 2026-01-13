@@ -1,0 +1,16 @@
+Random Forest Results
+Target: Risk_Level
+Accuracy: 0.4700
+F1-score (macro): 0.4454
+
+Top 10 Features:
+- Income: 0.2790
+- Credit_Score: 0.2463
+- Investment_Returns: 0.2460
+- Age: 0.1223
+- Customer_Feedback_Happy with the app.: 0.0210
+- Customer_Feedback_Fees are high.: 0.0202
+- Customer_Feedback_The service was discontinued.: 0.0177
+- Customer_Feedback_Average.: 0.0163
+- Customer_Feedback_Great service!: 0.0159
+- Customer_Feedback_The app is found.: 0.0154
