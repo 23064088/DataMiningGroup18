@@ -3,6 +3,16 @@ Target: loan_default
 Accuracy: 0.7300
 F1-score (macro): 0.7246
 
+Fit Diagnosis:
+Train Accuracy: 0.8087
+Test Accuracy : 0.7300
+Train Macro F1: 0.8073
+Test Macro F1 : 0.7246
+
+Diagnosis: Good Fit
+Accuracy gap = 0.0787
+F1 gap = 0.0827
+
 Top 10 Features:
 - debt_to_income_ratio: 0.3088
 - monthly_income: 0.1738
