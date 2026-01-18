@@ -1,16 +1,16 @@
 Random Forest Results
-Target: Is_Default
-Accuracy: 0.8542
-F1-score (macro): 0.7543
+Target: loan_default
+Accuracy: 0.7300
+F1-score (macro): 0.7246
 
 Top 10 Features:
-- AI_Confidence: 0.2063
-- Credit_Score: 0.1732
-- DTI_Ratio: 0.1389
-- Interest_Rate: 0.1283
-- Annual_Income: 0.0944
-- Loan_Amount: 0.0610
-- Age: 0.0598
-- AI_Sentiment_Label_positive: 0.0426
-- AI_Sentiment_Label_negative: 0.0262
-- Sentiment_Risk_Score: 0.0237
+- debt_to_income_ratio: 0.3088
+- monthly_income: 0.1738
+- credit_score: 0.1641
+- loan_amount: 0.1293
+- interest_rate: 0.0610
+- age: 0.0508
+- AI_Risk_Score: 0.0318
+- late_payment_count_12m: 0.0288
+- risk_keywords_present: 0.0114
+- bank_type_Digital: 0.0094
