@@ -1,26 +1,26 @@
 Random Forest Results
 Target: loan_default
-Accuracy: 0.7300
-F1-score (macro): 0.7246
+Accuracy: 0.7325
+F1-score (macro): 0.7266
 
 Fit Diagnosis:
-Train Accuracy: 0.8087
-Test Accuracy : 0.7300
-Train Macro F1: 0.8073
-Test Macro F1 : 0.7246
+Train Accuracy: 0.8056
+Test Accuracy : 0.7325
+Train Macro F1: 0.8038
+Test Macro F1 : 0.7266
 
 Diagnosis: Good Fit
-Accuracy gap = 0.0787
-F1 gap = 0.0827
+Accuracy gap = 0.0731
+F1 gap = 0.0772
 
 Top 10 Features:
-- debt_to_income_ratio: 0.3088
-- monthly_income: 0.1738
-- credit_score: 0.1641
-- loan_amount: 0.1293
-- interest_rate: 0.0610
+- debt_to_income_ratio: 0.3133
+- monthly_income: 0.1803
+- credit_score: 0.1703
+- loan_amount: 0.1300
+- interest_rate: 0.0618
 - age: 0.0508
-- AI_Risk_Score: 0.0318
-- late_payment_count_12m: 0.0288
-- risk_keywords_present: 0.0114
-- bank_type_Digital: 0.0094
+- late_payment_count_12m: 0.0299
+- Sentiment_Score: 0.0183
+- risk_keywords_present: 0.0106
+- financial_confidence_Medium: 0.0085
